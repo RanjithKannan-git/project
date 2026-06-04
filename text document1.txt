@@ -3,5 +3,4 @@
 2= lorem picsum for images
 
 3= website color wallet for combination color
-   welcome
-             welcome to all
+        
